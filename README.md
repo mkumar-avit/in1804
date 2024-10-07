@@ -28,3 +28,4 @@ This program uses some non-standard Python libraries:
 10. Capture HDCP input/output info
 11. Output to CSV and HTML
 12. Convert to an AWS Lambda and use AWS SecretsManager to be able to continually run the program.
+13. Convert to using SSH
