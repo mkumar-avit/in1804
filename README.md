@@ -25,3 +25,4 @@ This program uses some non-standard Python libraries:
 7. Change In1 Signal...In4 Signal to show the input name (if consistent) and change the 1/0 to Active Signal or No Signal.
 8. Add baseline max operating temp data for a reference line.
 9. Fix the multi-threaded monitoring of responses
+10. Capture HDCP input/output info
