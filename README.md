@@ -3,6 +3,13 @@
 ##  Summary
 This program will connect to IN1804 and collect internal temperature data at a predefined schedule.  It is fully functional and will generate an output in a CSV file similar to what is shown above.
 
+
+## Requirements
+This program uses some non-standard Python libraries:
+- PYTZ
+- schedule
+
+
 ## Next Steps
 1. Make the schedule timing a variable
 2. Add indoor / outdoor temps into the CSV
