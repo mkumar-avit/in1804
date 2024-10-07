@@ -11,21 +11,8 @@ FILENAME = 'IN1804_data_log.csv'
 PASSWORD = ''
 # List of devices (IP addresses or hostnames)
 devices = [
-    'o003-0300Ain1804.ad.calpoly.edu',
-    'o003-0302in1804.ad.calpoly.edu',
-    'o003-0303in1804.ad.calpoly.edu',
-    'o003-0305in1804.ad.calpoly.edu',
-    'o003-0306in1804.ad.calpoly.edu',
-    'o003-0307in1804.ad.calpoly.edu',
-    'o011-0304in1804.ad.calpoly.edu',
-    'o010-0200in1804.ad.calpoly.edu',
-    'o010-0201in1804.ad.calpoly.edu',
-    'o010-0222in1804.ad.calpoly.edu',
-    'o010-0223in1804.ad.calpoly.edu',
-    'o010-0226in1804.ad.calpoly.edu',
-    'o010-0227in1804.ad.calpoly.edu',
-    'o010-0231in1804.ad.calpoly.edu',
-    'o013-0113in1804.ad.calpoly.edu',
+    'device@address.here',
+    'device@address.here',
 ]  # Add your devices here
 
 edidTable = {
