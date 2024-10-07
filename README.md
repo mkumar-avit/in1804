@@ -26,3 +26,4 @@ This program uses some non-standard Python libraries:
 8. Add baseline max operating temp data for a reference line.
 9. Fix the multi-threaded monitoring of responses
 10. Capture HDCP input/output info
+11. Output to CSV and HTML
