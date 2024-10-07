@@ -18,8 +18,10 @@ This program uses some non-standard Python libraries:
 ## Next Steps
 1. Make the schedule timing a variable
 2. Add indoor / outdoor temps into the CSV
-3. Show both Farenheit and Celsius in CSV
-4. Convert into a class to be used in a larger system
-5. Change In1 Signal...In4 Signal to show the input name (if consistent) and change the 1/0 to Active Signal or No Signal.
-6. Add baseline max operating temp data for a reference line.
-7. Fix the multi-threaded monitoring of responses
+3. Add Week/Day/Hour columns in CSV for easier table generation
+4. Add Room # column in CSV
+5. Show both Farenheit and Celsius in CSV
+6. Convert into a class to be used in a larger system
+7. Change In1 Signal...In4 Signal to show the input name (if consistent) and change the 1/0 to Active Signal or No Signal.
+8. Add baseline max operating temp data for a reference line.
+9. Fix the multi-threaded monitoring of responses
