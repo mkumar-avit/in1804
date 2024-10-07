@@ -1,5 +1,9 @@
 ![image](https://github.com/user-attachments/assets/389f06e8-ed29-4cb8-9a74-ebdbf8a08bf9)
 
+Pivot Table generated from CSV
+![image](https://github.com/user-attachments/assets/b4aecbc3-7f47-49c8-9e2b-1d0849d9aa8c)
+
+
 ##  Summary
 This program will connect to IN1804 and collect internal temperature data at a predefined schedule.  It is fully functional and will generate an output in a CSV file similar to what is shown above.
 
