@@ -15,4 +15,5 @@ This program uses some non-standard Python libraries:
 2. Add indoor / outdoor temps into the CSV
 3. Show both Farenheit and Celsius in CSV
 4. Convert into a class to be used in a larger system
-5. Fix the multi-threaded monitoring of responses
+5. Change In1 Signal...In4 Signal to show the input name (if consistent) and change the 1/0 to Active Signal or No Signal.
+6. Fix the multi-threaded monitoring of responses
